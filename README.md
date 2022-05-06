@@ -1,2 +1,2 @@
 # Masterthesis-Suspicious-behavior-monitoring-of-the-Scene
-In this repository, the current state of the art is collected
+In diesem Repository wird der aktuelle Stand der Technick aufgelistet.
